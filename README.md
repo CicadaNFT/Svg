@@ -1,4 +1,4 @@
 # Svg
 
-![Alt text](./cicada.svg)
-<img src="./3301.svg">
+![Alt text](./CicadaNFT)
+<img src="./CicadaNFT.svg">
