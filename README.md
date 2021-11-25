@@ -1,3 +1,3 @@
 # Svg
 
-<img src="./CicadaNFT.svg">
+<img src="./CicadaNFT(Phase1).svg">
